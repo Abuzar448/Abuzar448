@@ -32,11 +32,11 @@
 ## ◈ About Me
 
 ```yaml
-name        : Abuzar Khan
+name        : Abuzar Farukh Khan
 role        : Full Stack Software Engineer (MERN)
-location    : India
+location    : Bhusawal dist.Jalgaon Maharashtra India
 education   : B.Tech (Computer Science)
-speciality  : End-to-end product development — UI to API to Database
+speciality  : End-to-end product development — UI to API to Database - MERN Stack Development
 ```
 
 I'm a full stack engineer with hands-on experience building complete, production-ready web applications using the MERN stack. I've spent 1.5–2 years deeply learning every layer of modern web development through Apna College's Full Stack program — not just following tutorials, but understanding *why* things work the way they do.
@@ -235,7 +235,7 @@ open_to:
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/aburaja2654@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aburaja2654@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Abuzar_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abuzar-khan-4a03b0290/)
+[![LinkedIn](https://img.shields.io/badge/Abuzar_Khan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedimn.co/in/abuzar-khan-4a03b0290/)
 [![GitHub](https://img.shields.io/badge/Abuzar448-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abuzar448)
 [![Instagram](https://img.shields.io/badge/@abuzar_khan_t-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abuzar_khan_t/)
 
